@@ -1,4 +1,4 @@
-[ ❤️ ] 🅱🅰🅻🅾🅲🅷 𝐎𝐍 𝐅𝐈𝐑𝐄  [🔥]
+[ ❤️ ] SANTO 𝐎𝐍 𝐅𝐈𝐑𝐄  [🔥]
 --------------------------------
  𝐌𝟏 +𝐌𝟐 +𝐌𝟑 +𝐌𝟒[ᴜᴘᴅᴀᴛᴇ ᴅᴏɴᴇ]
 -------------------------------
@@ -6,11 +6,11 @@
 --------------------------------
 [⬇️] 𝐓𝐎𝐎𝐋👇
 
-git clone https://github.com/ahmed99000/JR-SANTO-404
+git clone https://github.com/ahmed99000/SANTO-OLD-ID
 
-cd JR-SANTO-404
+cd SANTO-OLD-ID
 
-python JR-SANTO-404
+python king-santo_enc.py
 ---------------------
 TELEGRAM-GROUP 🔗 
 ---------------------
